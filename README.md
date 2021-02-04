@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there, I'm [Ale](https://www.instagram.com/aweirdrandomteddygirl/) 👋
+
+## Make-up artist? Dancer? Artist? Possible Web Designer? Dunno. 
+*She is so confused that he hits himself*
+
+- 🔭 I'm currently working on my speaking skills
+- 🌱 I'm currently learning how to be more productive 
+- 💯 2021 goal: realize a mobile app
+- 📫 How to reach me: [send an email](mailto:albatrinoale@gmail.com)
+- ⚡ Fun fact: I sleep a lot... like a Teddy bear (?)
+
+### Connect with me:
+
+[<img align="left" alt="Manuel Ricci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/teddialyenv)
+[<img align="left" alt="Manuel Ricci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/aweirdrandomteddygirl/)
